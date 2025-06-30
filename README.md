@@ -6,7 +6,7 @@ This Tableau dashboard explores key insights derived from a curated dataset of 1
 ![S P 500 Dashboard](https://github.com/user-attachments/assets/9c01c349-a090-4fe6-9250-9eaf2b90edd5)
 
 
----
+
 
 ## 🔍 Overview
 
